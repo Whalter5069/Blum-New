@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7672830082%2C%22first_name%22%3A%22NK%20GAMONG%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22nkgaming006%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-8089314888152132943&chat_type=sender&auth_date=1731216030&hash=09f9e86effac1d3df94b897dbaf363f2c22ad2e6df0f58af96c6daeeb94cc12f
