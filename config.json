@@ -2,8 +2,8 @@
     "auto_claim": true,
     "auto_task": true,
     "auto_game": true,
-    "low": 20000,
-    "high": 20001,
+    "low": 600,
+    "high": 650,
     "clow": "5",
     "chigh": "10"
 }
